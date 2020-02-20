@@ -1,3 +1,4 @@
+//[./SZ]
 var data;
 var modetype; 
 var vtx_protocol; 
